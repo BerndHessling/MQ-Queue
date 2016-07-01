@@ -6,7 +6,7 @@ This tool looks for mqpar.xml files in a specified folder and carries out the Ma
 XML filen names should contain the project name as well as an operator name, which will be used to parse the resulting txt output files in a result folder according to this information.
 
 ## Prerequisits
-* MaxQuant must be installed (any Version should be supported)
+* MaxQuant needs to be installed (any Version should be supported).
 * R needs to be installed (package was developed for version 3.3.0).
 
 
