@@ -1,5 +1,5 @@
 # MQ-Queue
-This script allows to queue MaxQuant analysis by saving mqpar.xml file in a watch folder. Resulting txt files can automatically be copied in a common result folder with specific user subfolders.
+Queue MaxQuant analysis by saving MaxQuant parameter files in a watch folder.
 
 ## Discription
 This tool looks for mqpar.xml files in a specified folder and carries out the MaxQuant analsis for according to these files. This allows the efficient use of a dedicated MaxQuant Server, as different analysis can be queed and will be carried out with no downtime in between.
