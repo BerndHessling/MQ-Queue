@@ -7,6 +7,7 @@ XML filen names should contain the project name as well as an operator name, whi
 
 ## Prerequisits
 * MaxQuant must be installed (any Version should be supported)
+* R needs to be installed (package was developed for version 3.3.0).
 
 
 ## Running the script
